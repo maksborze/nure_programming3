@@ -38,7 +38,7 @@ int main()
     case 9:  owner = "Борзенков";   break;
     case 10: owner = "Олійник";     break;
     default:
-        std::cout << "Результат: Квартири з таким номером не існує!" << std::endl;
+        std::cout << "Результат: Квартири з таким номером в домі немає!" << std::endl;
         return 0;
     }
 
